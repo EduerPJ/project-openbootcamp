@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/bucles/bucles.iml" filepath="$PROJECT_DIR$/bucles/bucles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dia2/dia2.iml" filepath="$PROJECT_DIR$/dia2/dia2.iml" />
       <module fileurl="file://$PROJECT_DIR$/project-openbootcamp.iml" filepath="$PROJECT_DIR$/project-openbootcamp.iml" />
     </modules>
   </component>
